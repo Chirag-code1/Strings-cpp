@@ -1,0 +1,24 @@
+//Convirting String to uppercase:
+#include<iostream>
+#include<string>
+#include<algorithm>
+
+using namespace std;
+int main(){
+    string str="sbacjajcHGCHSjan";
+    
+    //convert to upper case.
+   for(int i=0;i<str.size();i++){
+      if(str[i]>='a'&&str[i]<='z'){
+          str[i]-=32;
+      }
+   }
+   
+   cout<<"Using itetrative method: "+str<<endl;
+//using inbuilt function:
+   transform(str.begin(),strtr.end(),str.begin(), ::toupper);
+   cout<<"Using inbuilt function: "+str<< endl;
+   
+    
+    return 0;
+}
