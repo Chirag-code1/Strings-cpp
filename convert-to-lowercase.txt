@@ -6,9 +6,6 @@
 using namespace std;
 int main(){
     string str="HGCHSjan";
-    
-   
- 
    
    //covert to lower case:
    for(int i=0;i<str.size();i++){
