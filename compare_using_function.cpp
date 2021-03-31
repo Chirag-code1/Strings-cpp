@@ -10,5 +10,6 @@ int main ()
      cin>>buffer;  
   } while (strcmp (s1,s2) != 0);  
  cout<<"Answer is correct!!"<<endl;  
+
   return 0;  
 }  
