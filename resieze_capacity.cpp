@@ -1,5 +1,6 @@
 // C++ code to demonstrate the working of 
 // capacity(), resize() and shrink_to_fit() 
+
 #include<iostream> 
 #include<string> // for string class 
 using namespace std; 
