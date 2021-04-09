@@ -1,5 +1,4 @@
 //It is used to return a reference of the first character.
-
 #include<iostream>  
 #include<string>  
 using namespace std;  
