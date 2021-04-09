@@ -6,5 +6,6 @@ int main()
     string key="language";  
     int i=str.rfind(key);  
     cout<<i;  
+
     return 0;  
 }
