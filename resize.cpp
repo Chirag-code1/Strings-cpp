@@ -1,5 +1,6 @@
 // C++ code to demonstrate the working of 
 // resize()
+
 #include<iostream> 
 #include<string> // for string class 
 using namespace std; 
