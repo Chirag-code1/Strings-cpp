@@ -35,5 +35,6 @@ int main( )
     else
         cout<<"Substring not found";
 	
+
     return 0;
 }
