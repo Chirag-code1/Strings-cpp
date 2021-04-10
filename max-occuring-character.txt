@@ -1,5 +1,4 @@
 //Maximum occuring Character in String:
-
 #include<iostream>
 #include<string>
 #include<algorithm>
