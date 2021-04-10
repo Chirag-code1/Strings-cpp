@@ -1,5 +1,4 @@
 //Display string from backward:
-
 #include<iostream>
 using namespace std;
 
