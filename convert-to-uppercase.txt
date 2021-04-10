@@ -19,6 +19,5 @@ int main(){
    transform(str.begin(),strtr.end(),str.begin(), ::toupper);
    cout<<"Using inbuilt function: "+str<< endl;
    
-    
     return 0;
 }
