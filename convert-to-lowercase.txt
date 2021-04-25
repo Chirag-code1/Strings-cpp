@@ -1,4 +1,4 @@
-/Convert to lower case:
+//Convert to lower case:
 #include<iostream>
 #include<string>
 #include<algorithm>
