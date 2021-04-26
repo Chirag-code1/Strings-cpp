@@ -9,7 +9,7 @@ int main( )
     cout<<"Enter string: ";
     cin.getline(str, 80);
 	
-    int l; //Hold length of string
+    int l; // l holds length of string
     
     //finding length of string
     for(l = 0; str[l] != '\0'; l++);
