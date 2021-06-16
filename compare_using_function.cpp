@@ -3,7 +3,7 @@
 using namespace std;  
 int main ()  
 {  
-  char s1[] = "cricket";  
+  char s1[] = "cricketer";  
   char s2[50];  
   do {  
      cout<<"What is my favourite sport? ";  
