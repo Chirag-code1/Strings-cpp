@@ -9,4 +9,4 @@ source.copy(destination,sizeof source);
 cout<<"destination string is :"<<destination;  
 
 return 0;  
-} 
+} //revised.
