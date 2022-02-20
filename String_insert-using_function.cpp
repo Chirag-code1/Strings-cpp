@@ -8,4 +8,4 @@ cout<<"String contains :" <<str1<<'\n';
 cout<<"After insertion, String value is :"<<str1.insert(7,"icecreams and ");
   
 return 0;  
-} 
+} //revised.
