@@ -8,4 +8,4 @@ str1.assign(str);
 cout<<"Assigned string is : " <<str1;  
 
 return 0;  
-} 
+} //revised.
