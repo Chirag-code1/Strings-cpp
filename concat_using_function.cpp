@@ -14,4 +14,4 @@ int main()
     cout << "S1 = " << s1 << endl;  
     cout << "S2 = " << s2<<endl;  
     return 0;  
-}
+} //revised.
