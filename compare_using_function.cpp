@@ -12,4 +12,4 @@ int main ()
  cout<<"Answer is correct!!"<<endl;  
 
   return 0;  
-}  
+}  //revised.
