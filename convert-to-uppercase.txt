@@ -20,4 +20,4 @@ int main(){
    cout<<"Using inbuilt function: "+str<< endl;
    
     return 0;
-}
+} //revised.
