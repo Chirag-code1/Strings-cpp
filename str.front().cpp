@@ -7,4 +7,4 @@ int main()
     string str ="12345";  
     cout<<str.front();  
     return 0;  
-}
+} //revised.
