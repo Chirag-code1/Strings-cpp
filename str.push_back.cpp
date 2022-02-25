@@ -19,4 +19,4 @@ int main()
 	cout << str << endl; 
 
 	return 0; 
-} 
+} //revised.
